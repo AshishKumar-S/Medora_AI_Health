@@ -1,0 +1,7 @@
+{
+  "name": "Medora",
+  "description": "A comprehensive AI-powered healthcare platform for symptom checking, skin condition detection, and appointment booking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
